@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2019-09-25 21:49:49" Creator="Hope Harrison" Comments="" ID="fa399e3deb76121ee1272e42fc1e5594">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2019-09-26 11:23:32" Creator="Hope Harrison" Comments="" ID="1b06698495cf4c20bf7984ecfde5b2a7">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_PaneRelief</Package_File_Name>
-    <Library_Version>1.0.0.3</Library_Version>
+    <Library_Version>1.0.0.5</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -123,9 +123,6 @@
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
-      <Compile_Exclusions>
-        <Path/>
-      </Compile_Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
