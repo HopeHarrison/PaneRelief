@@ -1,7 +1,5 @@
-In order to use the PaneRelief Quick Drop shortcut, copy the file called "PaneRelief.llb" in the "LLB" folder and place it in the following location:
+Use this tool to easily set properties of panes and splitters.
 
-C:\Program Files (x86)\National Instruments\LabVIEW XXXX\resource\dialog\QuickDrop\plugins
+To use the tool, open quick drop by pressing ctl + space, then press ctl + a. Then the PaneRelief window will appear and show you a view of the panes and splitters on your current VI's front panel. Click a pane or splitter on the view to select it and then view and edit the properties at the bottom.
 
-Replace "LabVIEW XXXX" with the version you are using, and use "Program Files" instead of "Program Files (x86)" if using 64-bit LabVIEW or a 32-bit OS.
-
-Source code is written in LabVIEW 2018, but the LLB was backsaved to 2015 so it can be used in any LabVIEW version 2015 and higher.
+The source code is written in LabVIEW 2018, but it was backsaved to LabVIEW 2015 for the package.
