@@ -13,34 +13,27 @@
 		<Property Name="server.vi.propertiesEnabled" Type="Bool">true</Property>
 		<Property Name="specify.custom.address" Type="Bool">false</Property>
 		<Item Name="SubVIs" Type="Folder">
-			<Item Name="Calculate Scaling Factors.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/SubVIs/Calculate Scaling Factors.vi"/>
-			<Item Name="Draw Navigation Picture.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/SubVIs/Draw Navigation Picture.vi"/>
-			<Item Name="Get Color.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/SubVIs/Get Color.vi"/>
-			<Item Name="Get Pane At Point.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/SubVIs/Get Pane At Point.vi"/>
-			<Item Name="Get Pane Details.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/SubVIs/Get Pane Details.vi"/>
-			<Item Name="Get Splitter At Point.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/SubVIs/Get Splitter At Point.vi"/>
-			<Item Name="Get Splitter Details.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/SubVIs/Get Splitter Details.vi"/>
-		</Item>
-		<Item Name="Classes" Type="Folder">
-			<Item Name="Panel Object.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object/Panel Object.lvclass"/>
-			<Item Name="Splitter.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Splitter/Splitter.lvclass"/>
-			<Item Name="Pane.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Pane/Pane.lvclass"/>
+			<Item Name="Calculate Scaling Factors.vi" Type="VI" URL="../SubVIs/Calculate Scaling Factors.vi"/>
+			<Item Name="Draw Navigation Picture.vi" Type="VI" URL="../SubVIs/Draw Navigation Picture.vi"/>
+			<Item Name="Get Color.vi" Type="VI" URL="../SubVIs/Get Color.vi"/>
+			<Item Name="Get Pane At Point.vi" Type="VI" URL="../SubVIs/Get Pane At Point.vi"/>
+			<Item Name="Get Pane Details.vi" Type="VI" URL="../SubVIs/Get Pane Details.vi"/>
+			<Item Name="Get Splitter At Point.vi" Type="VI" URL="../SubVIs/Get Splitter At Point.vi"/>
+			<Item Name="Get Splitter Details.vi" Type="VI" URL="../SubVIs/Get Splitter Details.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
-			<Item Name="Rectangle--Cluster.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/Rectangle--Cluster.ctl"/>
-			<Item Name="Splitter Orientation--Enum.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/Splitter Orientation--Enum.ctl"/>
-			<Item Name="Pane Details--Cluster.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/Pane Details--Cluster.ctl"/>
-			<Item Name="Point--Cluster.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/Point--Cluster.ctl"/>
-			<Item Name="Scrollbar Visibility--Enum.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/Scrollbar Visibility--Enum.ctl"/>
-			<Item Name="Selection Colors--Cluster.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/Selection Colors--Cluster.ctl"/>
-			<Item Name="Splitter Details--Cluster.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/Splitter Details--Cluster.ctl"/>
-			<Item Name="Splitter Sizing--Enum.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/Splitter Sizing--Enum.ctl"/>
-			<Item Name="UI Selections--Cluster.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/UI Selections--Cluster.ctl"/>
-			<Item Name="Vertical Scrollbar Visibility--Enum.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/Vertical Scrollbar Visibility--Enum.ctl"/>
+			<Item Name="Pane Details--Cluster.ctl" Type="VI" URL="../Typedefs/Pane Details--Cluster.ctl"/>
+			<Item Name="Point--Cluster.ctl" Type="VI" URL="../Typedefs/Point--Cluster.ctl"/>
+			<Item Name="Scrollbar Visibility--Enum.ctl" Type="VI" URL="../Typedefs/Scrollbar Visibility--Enum.ctl"/>
+			<Item Name="Selection Colors--Cluster.ctl" Type="VI" URL="../Typedefs/Selection Colors--Cluster.ctl"/>
+			<Item Name="Splitter Details--Cluster.ctl" Type="VI" URL="../Typedefs/Splitter Details--Cluster.ctl"/>
+			<Item Name="Splitter Sizing--Enum.ctl" Type="VI" URL="../Typedefs/Splitter Sizing--Enum.ctl"/>
+			<Item Name="UI Selections--Cluster.ctl" Type="VI" URL="../Typedefs/UI Selections--Cluster.ctl"/>
+			<Item Name="Vertical Scrollbar Visibility--Enum.ctl" Type="VI" URL="../Typedefs/Vertical Scrollbar Visibility--Enum.ctl"/>
 		</Item>
-		<Item Name="Pane Relief QD.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Pane Relief QD.vi"/>
-		<Item Name="Pane Relief UI.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Pane Relief UI.vi"/>
-		<Item Name="test.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/test.vi"/>
+		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
+		<Item Name="Pane Relief QD.vi" Type="VI" URL="../Pane Relief QD.vi"/>
+		<Item Name="Pane Relief UI.vi" Type="VI" URL="../Pane Relief UI.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw Rectangle.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Rectangle.vi"/>
