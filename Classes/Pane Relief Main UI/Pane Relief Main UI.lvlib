@@ -6,7 +6,11 @@
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
 	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Mouseover Panel Object Msg.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Pane Relief Main UI/Pane Relief Main UI Messages/Mouseover Panel Object Msg/Mouseover Panel Object Msg.lvclass"/>
 		<Item Name="Panel Object Settings Changed Msg.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Pane Relief Main UI/Pane Relief Main UI Messages/Panel Object Settings Changed Msg/Panel Object Settings Changed Msg.lvclass"/>
+		<Item Name="Rescale Msg.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Pane Relief Main UI/Pane Relief Main UI Messages/Rescale Msg/Rescale Msg.lvclass"/>
+		<Item Name="Select Panel Object Msg.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Pane Relief Main UI/Pane Relief Main UI Messages/Select Panel Object Msg/Select Panel Object Msg.lvclass"/>
+		<Item Name="Show Panel Object Settings Msg.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Pane Relief Main UI/Pane Relief Main UI Messages/Show Panel Object Settings Msg/Show Panel Object Settings Msg.lvclass"/>
 	</Item>
 	<Item Name="Pane Relief Main UI.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Pane Relief Main UI/Pane Relief Main UI/Pane Relief Main UI.lvclass"/>
 </Library>
