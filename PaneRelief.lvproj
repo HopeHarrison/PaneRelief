@@ -31,9 +31,13 @@
 			<Item Name="Pane Relief Main UI.lvlib" Type="Library" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Pane Relief Main UI/Pane Relief Main UI.lvlib"/>
 			<Item Name="Splitter Settings UI.lvlib" Type="Library" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Splitter Settings UI/Splitter Settings UI.lvlib"/>
 			<Item Name="Pane Settings UI.lvlib" Type="Library" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Pane Settings UI/Pane Settings UI.lvlib"/>
+			<Item Name="Instructions UI.lvlib" Type="Library" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Instructions UI/Instructions UI.lvlib"/>
+			<Item Name="Panel Object Actions UI.lvlib" Type="Library" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object Actions UI/Panel Object Actions UI.lvlib"/>
 		</Item>
 		<Item Name="Pane Relief QD.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Pane Relief QD.vi"/>
 		<Item Name="test.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/test.vi"/>
+		<Item Name="Vert Splitter - testee.vi" Type="VI" URL="//Mac/Home/Downloads/Vert Splitter - testee.vi"/>
+		<Item Name="Vert Splitter - tester.vi" Type="VI" URL="//Mac/Home/Downloads/Vert Splitter - tester.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Draw Rectangle.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Rectangle.vi"/>
@@ -94,6 +98,7 @@
 				<Item Name="Empty Picture" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Empty Picture"/>
 				<Item Name="LVPoint32TypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPoint32TypeDef.ctl"/>
 				<Item Name="Stall Data Flow.vim" Type="VI" URL="/&lt;vilib&gt;/Utility/Stall Data Flow.vim"/>
+				<Item Name="LVPositionTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPositionTypeDef.ctl"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
 			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
