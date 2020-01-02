@@ -39,11 +39,32 @@
 			<Property Name="NI.ClassItem.State" Type="Int">1107821072</Property>
 		</Item>
 		<Item Name="Splitter.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Splitter/Splitter.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!'L!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!#J!=!!?!!!3%&amp;.Q&lt;'FU&gt;'6S,GRW9WRB=X-!!!R4='RJ&gt;(2F=C"P&gt;81!!&amp;"!=!!?!!!Q&amp;5&amp;D&gt;'^S)%:S97VF&gt;W^S;SZM&gt;GRJ9BB.:8.T97&gt;F)%6O=86F&gt;76S,GRW9WRB=X-!!"24:82U;7ZH=S"633"&amp;&lt;H&amp;V:86F=A!!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!"&amp;!!Q!+3'^S;8JP&lt;H2B&lt;!!!$U!$!!B7:8*U;7.B&lt;!!!-1$R!!!!!!!!!!%35'^J&lt;H1N,5.M&gt;8.U:8)O9X2M!":!5!!#!!A!#1:0:G:T:81!!".!#A!-5W.B&lt;'5A2G&amp;D&gt;'^S!!!;1(!!#!!!!%Q!!!R4='RJ&gt;(2F=C"3:79!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!1!"A!(!!I!#Q!-!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!!!!!!!A!!!!+!!!!%!!!!")!!!!1!!!!!!%!$1!!!!!</Property>
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!)\!!!!%Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!#J!=!!?!!!3%&amp;.Q&lt;'FU&gt;'6S,GRW9WRB=X-!!!R4='RJ&gt;(2F=C"P&gt;81!!!V!"Q!'4G^S&lt;7&amp;M!!!21!=!#EVP&gt;8.F,7^W:8)!!!^!"Q!)5W6M:7.U:71!!"F!"Q!45W6M:7.U:71A47^V=W5N&lt;X:F=A"+!0(:O(AA!!!!!2V4:7RF9X2J&lt;WYA1W^M&lt;X*T,3V$&lt;(6T&gt;'6S,G.U&lt;!!E1&amp;!!"!!'!!=!#!!*%&amp;.F&lt;'6D&gt;'FP&lt;C"$&lt;WRP=H-!!&amp;"!=!!?!!!Q&amp;5&amp;D&gt;'^S)%:S97VF&gt;W^S;SZM&gt;GRJ9BB.:8.T97&gt;F)%6O=86F&gt;76S,GRW9WRB=X-!!"24:82U;7ZH=S"633"&amp;&lt;H&amp;V:86F=A!!&amp;E"1!!-!!!!"!!))28*S&lt;X)A37Y!!"&amp;!!Q!+3'^S;8JP&lt;H2B&lt;!!!$U!$!!B7:8*U;7.B&lt;!!!-1$R!!!!!!!!!!%35'^J&lt;H1N,5.M&gt;8.U:8)O9X2M!":!5!!#!!U!$A:0:G:T:81!!".!#A!-5W.B&lt;'5A2G&amp;D&gt;'^S!!!;1(!!#!!!!%Q!!!R4='RJ&gt;(2F=C"3:79!!&amp;1!]!!-!!-!"!!%!!5!"!!%!!I!#Q!-!!]!%!!2!Q!!?!!!$1A!!!!!!!!!!!!!#1!!!!!!!!!!!!!!%!!!!!A!!!!+!!!!%!!!!")!!!!1!!!!!!%!%A!!!!!</Property>
 			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
 			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
 			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
 			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
+		</Item>
+	</Item>
+	<Item Name="Protected Methods" Type="Folder">
+		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
+		<Item Name="Get Position For Align Or Distribute.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Splitter/Get Position For Align Or Distribute.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!&amp;#!!!!$!!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!$U!$!!B1&lt;X.J&gt;'FP&lt;A!!%%!B#U&amp;Q='RJ9W&amp;C&lt;'5`!#J!=!!?!!!3%&amp;.Q&lt;'FU&gt;'6S,GRW9WRB=X-!!!R4='RJ&gt;(2F=C"P&gt;81!!!1!!!!71&amp;!!!Q!!!!%!!AB&amp;=H*P=C"*&lt;A!!(E!B'6:F=H2J9W&amp;M0S!I2DIA3'^S;8JP&lt;H2B&lt;#E!+%"Q!"Y!!")15X"M;82U:8)O&lt;(:D&lt;'&amp;T=Q!!#V.Q&lt;'FU&gt;'6S)'FO!&amp;1!]!!-!!-!"!!&amp;!!9!"Q!(!!=!"Q!)!!=!#1!+!Q!!?!!!$1A!!!E!!!!*!!!!D1M!!!!!!!!!!!!!!!!!!!!!!!!+!!!!!!!!!"!!!!#1!!!!!!%!#Q!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
+		</Item>
+		<Item Name="Set Position For Align Or Distribute.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Splitter/Set Position For Align Or Distribute.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%S!!!!#Q!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AF&amp;=H*P=C"0&gt;81!"!!!!#J!=!!?!!!3%&amp;.Q&lt;'FU&gt;'6S,GRW9WRB=X-!!!R4='RJ&gt;(2F=C"P&gt;81!!":!5!!$!!!!!1!##%6S=G^S)%FO!!!01!-!#&amp;"P=WFU;7^O!!!?1#%:6G6S&gt;'FD97Q`)#B'/C")&lt;X*J?G^O&gt;'&amp;M+1!I1(!!(A!!%B"4='RJ&gt;(2F=CZM&gt;G.M98.T!!!,5X"M;82U:8)A;7Y!6!$Q!!Q!!Q!%!!1!"1!%!!1!"!!%!!9!"Q!)!!E$!!"Y!!!.#!!!!!!!!!!!!!#.#Q!!!!!!!!!!!!!!!!!!!!!!!!I!!!!)!!!!%!!!!*!!!!!!!1!+!!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">0</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">3</Property>
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1082130960</Property>
 		</Item>
