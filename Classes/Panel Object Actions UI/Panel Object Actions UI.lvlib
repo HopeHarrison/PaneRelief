@@ -5,6 +5,8 @@
 	<Property Name="NI.Lib.Version" Type="Str">1.0.0.0</Property>
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="Abstract Messages for Caller" Type="Folder"/>
-	<Item Name="Messages for this Actor" Type="Folder"/>
+	<Item Name="Messages for this Actor" Type="Folder">
+		<Item Name="Show Panel Object Actions UI Msg.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object Actions UI/Panel Object Actions UI Messages/Show Panel Object Actions UI Msg/Show Panel Object Actions UI Msg.lvclass"/>
+	</Item>
 	<Item Name="Panel Object Actions UI.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object Actions UI/Panel Object Actions UI/Panel Object Actions UI.lvclass"/>
 </Library>
