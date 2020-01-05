@@ -22,6 +22,7 @@
 			<Item Name="Splitter Sizing--Enum.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/Splitter Sizing--Enum.ctl"/>
 			<Item Name="Vertical Scrollbar Visibility--Enum.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Typedefs/Vertical Scrollbar Visibility--Enum.ctl"/>
 			<Item Name="Align Type--Enum.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object/Align Type--Enum.ctl"/>
+			<Item Name="Distribution Type--Enum.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object/Distribution Type--Enum.ctl"/>
 		</Item>
 		<Item Name="Classes" Type="Folder">
 			<Item Name="Panel Object.lvclass" Type="LVClass" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object/Panel Object.lvclass"/>
