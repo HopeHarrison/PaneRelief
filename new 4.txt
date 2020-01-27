@@ -1,0 +1,6 @@
+<SL__arrayElement class="bigMultiCosm" uid="103">
+            <objFlags>6420</objFlags>
+            <partID>102</partID>
+            <bounds>(0, 200, 225, 201)</bounds>
+			
+			!!!!!!!! :)

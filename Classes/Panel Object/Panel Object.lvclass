@@ -72,6 +72,15 @@
 			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
 			<Property Name="NI.ClassItem.State" Type="Int">1342710288</Property>
 		</Item>
+		<Item Name="Set Origin To Zero.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object/Set Origin To Zero.vi">
+			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%@!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!7&amp;&amp;"B&lt;G6M)%^C;G6D&gt;#ZM&gt;G.M98.T!!!15'&amp;O:7QA4W*K:7.U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!&amp;B2197ZF&lt;#"09GJF9X1O&lt;(:D&lt;'&amp;T=Q!!$V"B&lt;G6M)%^C;G6D&gt;#"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!A!!!!!</Property>
+			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+			<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
+			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
+			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+			<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
+		</Item>
 	</Item>
 	<Item Name="Protected Methods" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
@@ -215,6 +224,29 @@
 				<Property Name="NI.ClassItem.State" Type="Int">269230080</Property>
 			</Item>
 		</Item>
+		<Item Name="Selection Colors" Type="Property Definition">
+			<Property Name="NI.ClassItem.Property.LongName" Type="Str">Selection Colors</Property>
+			<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Selection Colors</Property>
+			<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
+			<Item Name="Read Selection Colors.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object/Read Selection Colors.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!']!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!"Q!'4G^S&lt;7&amp;M!!!21!=!#EVP&gt;8.F,7^W:8)!!!^!"Q!)5W6M:7.U:71!!"F!"Q!45W6M:7.U:71A47^V=W5N&lt;X:F=A"+!0(:O(AA!!!!!2V4:7RF9X2J&lt;WYA1W^M&lt;X*T,3V$&lt;(6T&gt;'6S,G.U&lt;!!E1&amp;!!"!!&amp;!!9!"Q!)%&amp;.F&lt;'6D&gt;'FP&lt;C"$&lt;WRP=H-!!$*!=!!?!!!7&amp;&amp;"B&lt;G6M)%^C;G6D&gt;#ZM&gt;G.M98.T!!!15'&amp;O:7QA4W*K:7.U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!&amp;B2197ZF&lt;#"09GJF9X1O&lt;(:D&lt;'&amp;T=Q!!$V"B&lt;G6M)%^C;G6D&gt;#"J&lt;A"B!0!!$!!$!!1!#1!+!!1!"!!%!!1!#Q!%!!1!$!)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!.!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107820544</Property>
+			</Item>
+			<Item Name="Write Selection Colors.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object/Write Selection Colors.vi">
+				<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!']!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!7&amp;&amp;"B&lt;G6M)%^C;G6D&gt;#ZM&gt;G.M98.T!!!15'&amp;O:7QA4W*K:7.U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!.1!=!"EZP=GVB&lt;!!!%5!(!!J.&lt;X6T:3VP&gt;G6S!!!01!=!#&amp;.F&lt;'6D&gt;'6E!!!:1!=!%V.F&lt;'6D&gt;'6E)%VP&gt;8.F,7^W:8)!3A$RW&lt;BY)!!!!!%&gt;5W6M:7.U;7^O)%.P&lt;'^S=SUN1WRV=X2F=CZD&gt;'Q!*%"1!!1!"Q!)!!E!#B"4:7RF9X2J&lt;WYA1W^M&lt;X*T!!!Q1(!!(A!!&amp;B2197ZF&lt;#"09GJF9X1O&lt;(:D&lt;'&amp;T=Q!!$V"B&lt;G6M)%^C;G6D&gt;#"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!M!$!)!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!.!!!!!!</Property>
+				<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
+				<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
+				<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
+				<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
+				<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
+				<Property Name="NI.ClassItem.State" Type="Int">1107820544</Property>
+			</Item>
+		</Item>
 	</Item>
 	<Item Name="Protected Accessors" Type="Folder">
 		<Property Name="NI.LibItem.Scope" Type="Int">3</Property>
@@ -264,37 +296,5 @@
 				<Property Name="NI.ClassItem.State" Type="Int">8388608</Property>
 			</Item>
 		</Item>
-	</Item>
-	<Item Name="Selection Colors" Type="Property Definition">
-		<Property Name="NI.ClassItem.Property.LongName" Type="Str">Selection Colors</Property>
-		<Property Name="NI.ClassItem.Property.ShortName" Type="Str">Selection Colors</Property>
-		<Property Name="NI.ClassItem.Property.SortKey" Type="Int">-1</Property>
-		<Item Name="Read Selection Colors.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object/Read Selection Colors.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!']!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!!V!"Q!'4G^S&lt;7&amp;M!!!21!=!#EVP&gt;8.F,7^W:8)!!!^!"Q!)5W6M:7.U:71!!"F!"Q!45W6M:7.U:71A47^V=W5N&lt;X:F=A"+!0(:O(AA!!!!!2V4:7RF9X2J&lt;WYA1W^M&lt;X*T,3V$&lt;(6T&gt;'6S,G.U&lt;!!E1&amp;!!"!!&amp;!!9!"Q!)%&amp;.F&lt;'6D&gt;'FP&lt;C"$&lt;WRP=H-!!$*!=!!?!!!7&amp;&amp;"B&lt;G6M)%^C;G6D&gt;#ZM&gt;G.M98.T!!!15'&amp;O:7QA4W*K:7.U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!&amp;B2197ZF&lt;#"09GJF9X1O&lt;(:D&lt;'&amp;T=Q!!$V"B&lt;G6M)%^C;G6D&gt;#"J&lt;A"B!0!!$!!$!!1!#1!+!!1!"!!%!!1!#Q!%!!1!$!)!!(A!!!U)!!!!!!!!#1!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!%!!!$1!!!!Q!!!!!!!!!!!!!!1!.!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107820544</Property>
-		</Item>
-		<Item Name="Write Selection Colors.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object/Write Selection Colors.vi">
-			<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!']!!!!$A!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!7&amp;&amp;"B&lt;G6M)%^C;G6D&gt;#ZM&gt;G.M98.T!!!15'&amp;O:7QA4W*K:7.U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!.1!=!"EZP=GVB&lt;!!!%5!(!!J.&lt;X6T:3VP&gt;G6S!!!01!=!#&amp;.F&lt;'6D&gt;'6E!!!:1!=!%V.F&lt;'6D&gt;'6E)%VP&gt;8.F,7^W:8)!3A$RW&lt;BY)!!!!!%&gt;5W6M:7.U;7^O)%.P&lt;'^S=SUN1WRV=X2F=CZD&gt;'Q!*%"1!!1!"Q!)!!E!#B"4:7RF9X2J&lt;WYA1W^M&lt;X*T!!!Q1(!!(A!!&amp;B2197ZF&lt;#"09GJF9X1O&lt;(:D&lt;'&amp;T=Q!!$V"B&lt;G6M)%^C;G6D&gt;#"J&lt;A"B!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!M!$!)!!(A!!!U)!!!!!!!!!!!!!!U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!1!!!!%A!!$1!!!!Q!!!!!!!!!!!!!!1!.!!!!!!</Property>
-			<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-			<Property Name="NI.ClassItem.Flags" Type="Int">16777216</Property>
-			<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">true</Property>
-			<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-			<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-			<Property Name="NI.ClassItem.State" Type="Int">1107820544</Property>
-		</Item>
-	</Item>
-	<Item Name="Set Origin To Zero.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Classes/Panel Object/Set Origin To Zero.vi">
-		<Property Name="NI.ClassItem.ConnectorPane" Type="Bin">'!#!!!!!!!)!"1!&amp;!!!-!%!!!@````]!!!!"!!%!!!%@!!!!#1!-1#%'=X2B&gt;(6T!!!,1!-!"'.P:'5!!""!-0````]'=W^V=G.F!!!71&amp;!!!Q!!!!%!!AFF=H*P=C"P&gt;81!"!!!!$*!=!!?!!!7&amp;&amp;"B&lt;G6M)%^C;G6D&gt;#ZM&gt;G.M98.T!!!15'&amp;O:7QA4W*K:7.U)'^V&gt;!!!)%"1!!-!!!!"!!)4:8*S&lt;X)A;7YA+'ZP)'6S=G^S+1!Q1(!!(A!!&amp;B2197ZF&lt;#"09GJF9X1O&lt;(:D&lt;'&amp;T=Q!!$V"B&lt;G6M)%^C;G6D&gt;#"J&lt;A"5!0!!$!!$!!1!"!!&amp;!!1!"!!%!!1!"A!%!!1!"Q)!!(A!!!U)!!!!!!!!!!!!!)U,!!!!!!!!!!!!!!!!!!!!!!!!#!!!!!!!!!!!!!!!E!!!!!!"!!A!!!!!</Property>
-		<Property Name="NI.ClassItem.ExecutionSystem" Type="Int">-1</Property>
-		<Property Name="NI.ClassItem.Flags" Type="Int">16777344</Property>
-		<Property Name="NI.ClassItem.IsStaticMethod" Type="Bool">false</Property>
-		<Property Name="NI.ClassItem.MethodScope" Type="UInt">1</Property>
-		<Property Name="NI.ClassItem.Priority" Type="Int">1</Property>
-		<Property Name="NI.ClassItem.State" Type="Int">1107821056</Property>
 	</Item>
 </LVClass>
