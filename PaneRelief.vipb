@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2019-09-26 11:23:32" Creator="Hope Harrison" Comments="" ID="1b06698495cf4c20bf7984ecfde5b2a7">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2020-02-11 14:38:41" Creator="Hope Harrison" Comments="" ID="81f8cd76b794fe0aeca20b265d261004">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_PaneRelief</Package_File_Name>
-    <Library_Version>1.0.0.5</Library_Version>
+    <Library_Version>2.0.0.3</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -16,7 +16,16 @@
     <Target>LabVIEW</Target>
   </Library_General_Settings>
   <Advanced_Settings>
-    <Package_Dependencies/>
+    <Package_Dependencies>
+      <External_Dependencies>mgi_lib_mgi_panel_manager &gt;= 1.0.1.4</External_Dependencies>
+      <External_Dependencies>mgi_lib_monitored_actor &gt;= 2.0.0.23</External_Dependencies>
+      <External_Dependencies>oglib_array &gt;= 4.1.1.14</External_Dependencies>
+      <External_Dependencies>oglib_md5 &gt;= 4.1.1.10</External_Dependencies>
+      <Direct_Dependencies>mgi_lib_mgi_panel_manager-1.0.1.4</Direct_Dependencies>
+      <Direct_Dependencies>mgi_lib_monitored_actor-2.0.0.23</Direct_Dependencies>
+      <Direct_Dependencies>oglib_array-4.1.1.14</Direct_Dependencies>
+      <Direct_Dependencies>oglib_md5-4.1.1.10</Direct_Dependencies>
+    </Package_Dependencies>
     <Custom_Action_VIs>
       <Pre-Build_VI/>
       <Post-Build_VI/>
@@ -32,7 +41,8 @@
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>First release version of the PaneRelief Quick Drop Shortcut tool.</Release_Notes>
+      <Release_Notes>Second release version of the PaneRelief Quick Drop Shortcut tool.
+*Includes ability to change size of splitters and to apply settings to multiple panes/splitters at once</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
