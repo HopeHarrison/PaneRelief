@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2020-02-11 15:13:49" Creator="Hope Harrison" Comments="" ID="da6bf870036bff6dabaf69ae69083b81">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2020-02-11 17:05:47" Creator="Hope Harrison" Comments="" ID="0264f14b4570bbaea5926b2184413fbd">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_PaneRelief</Package_File_Name>
-    <Library_Version>2.0.0.5</Library_Version>
+    <Library_Version>2.0.0.6</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -37,7 +37,13 @@
     <VI_Package_Configuration_File>PaneRelief.vipc</VI_Package_Configuration_File>
     <Description>
       <One_Line_Description_Summary>Makes it easy to set properties of front panel panes and splitters</One_Line_Description_Summary>
-      <Description>This tool is launched from the Quick Drop (default shortcut ctl + a). It shows all the panes and splitters on the current front panel in a convenient view. You can the select a pane or splitter from the view and then view and edit its commonly used properties (such as name, position, scrollbar visibility, color, etc...).</Description>
+      <Description>This tool is launched from the Quick Drop (default shortcut ctl + a). It shows all the panes and splitters on the current front panel in a convenient view. You can the select a pane or splitter from the view and then view and edit its commonly used properties (such as name, position, scrollbar visibility, color, etc...).
+
+This tool is developed in the following github repo:
+https://github.com/HopeHarrison/PaneRelief
+
+It also uses code from this repo:
+https://github.com/flarn2006/VILab</Description>
       <Copyright/>
       <Packager/>
       <URL/>

@@ -50,9 +50,6 @@
 			<Item Name="Fix Resource Size Bytes.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Fix Resource Size Bytes.vi"/>
 			<Item Name="Is Big Endian.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Is Big Endian.vi"/>
 			<Item Name="Load Resource File.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Load Resource File.vi"/>
-			<Item Name="Low-Level VI Manipulation.aliases" Type="Document" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Low-Level VI Manipulation.aliases"/>
-			<Item Name="Low-Level VI Manipulation.lvlps" Type="Document" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Low-Level VI Manipulation.lvlps"/>
-			<Item Name="Low-Level VI Manipulation.lvproj" Type="Document" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Low-Level VI Manipulation.lvproj"/>
 			<Item Name="Prompt for Terminal Counts.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Prompt for Terminal Counts.vi"/>
 			<Item Name="Resource Array.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Resource Array.ctl"/>
 			<Item Name="Resource Editor Internal Commands Enum.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Resource Editor Internal Commands Enum.ctl"/>
@@ -60,6 +57,7 @@
 			<Item Name="Resource.ctl" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Resource.ctl"/>
 			<Item Name="Save Resource File.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Save Resource File.vi"/>
 			<Item Name="Save VI with XML Heaps.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/Save VI with XML Heaps.vi"/>
+			<Item Name="llvim_license.txt" Type="Document" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Low-Level VI Manipulation/llvim_license.txt"/>
 		</Item>
 		<Item Name="Pane Relief QD.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/Pane Relief QD.vi"/>
 		<Item Name="test.vi" Type="VI" URL="/&lt;resource&gt;/dialog/QuickDrop/plugins/PaneRelief/test.vi"/>
