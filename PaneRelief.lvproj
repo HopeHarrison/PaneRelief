@@ -47,6 +47,7 @@
 			<Item Name="Resource.ctl" Type="VI" URL="../Low-Level VI Manipulation/Resource.ctl"/>
 			<Item Name="Save Resource File.vi" Type="VI" URL="../Low-Level VI Manipulation/Save Resource File.vi"/>
 			<Item Name="Save VI with XML Heaps.vi" Type="VI" URL="../Low-Level VI Manipulation/Save VI with XML Heaps.vi"/>
+			<Item Name="Save VI with XML Heaps With Overwrite Option.vi" Type="VI" URL="../Low-Level VI Manipulation/Save VI with XML Heaps With Overwrite Option.vi"/>
 		</Item>
 		<Item Name="Typedefs" Type="Folder">
 			<Item Name="Point--Cluster.ctl" Type="VI" URL="../Typedefs/Point--Cluster.ctl"/>
