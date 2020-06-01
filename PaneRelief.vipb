@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2020-05-14 11:47:40" Creator="Hope Harrison" Comments="" ID="d2184fd5bd7563258048129fa8969b37">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2020-06-01 14:57:04" Creator="Hope Harrison" Comments="" ID="50215a87c591f3a9b05adbeef15d9811">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_PaneRelief</Package_File_Name>
-    <Library_Version>2.0.1.13</Library_Version>
+    <Library_Version>2.0.2.17</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -47,9 +47,7 @@ https://github.com/flarn2006/VILab</Description>
       <Copyright/>
       <Packager/>
       <URL/>
-      <Release_Notes>Second release version of the PaneRelief Quick Drop Shortcut tool.
-*Includes ability to change size of splitters and to apply settings to multiple panes/splitters at once
-*Bug Fix: changing splitter size in class method no longer removes class membership</Release_Notes>
+      <Release_Notes>* You can now launch PaneRelief from the Tools menu of VIs by selecting "Tools&gt;&gt;PaneRelief... "</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
@@ -127,6 +125,12 @@ https://github.com/flarn2006/VILab</Description>
       <Destination_Overrides>
         <Path>Pane Relief QD.vi</Path>
         <Destination>11</Destination>
+        <Additional_Destination>false</Additional_Destination>
+        <Additional_Destination_Index>0</Additional_Destination_Index>
+      </Destination_Overrides>
+      <Destination_Overrides>
+        <Path>Tools Menu/PaneRelief.vi</Path>
+        <Destination>7</Destination>
         <Additional_Destination>false</Additional_Destination>
         <Additional_Destination_Index>0</Additional_Destination_Index>
       </Destination_Overrides>

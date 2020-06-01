@@ -59,6 +59,10 @@
 			<Item Name="Splitter Sizing--Enum.ctl" Type="VI" URL="../Typedefs/Splitter Sizing--Enum.ctl"/>
 			<Item Name="Vertical Scrollbar Visibility--Enum.ctl" Type="VI" URL="../Typedefs/Vertical Scrollbar Visibility--Enum.ctl"/>
 		</Item>
+		<Item Name="Tools Menu" Type="Folder">
+			<Item Name="PaneRelief.vi" Type="VI" URL="../Tools Menu/PaneRelief.vi"/>
+		</Item>
+		<Item Name="Launch Pane Relief.vi" Type="VI" URL="../Launch Pane Relief.vi"/>
 		<Item Name="Pane Relief QD.vi" Type="VI" URL="../Pane Relief QD.vi"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
