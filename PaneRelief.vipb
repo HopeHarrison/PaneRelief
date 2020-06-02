@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2020-06-01 14:57:04" Creator="Hope Harrison" Comments="" ID="50215a87c591f3a9b05adbeef15d9811">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2020-06-02 09:53:57" Creator="Hope Harrison" Comments="" ID="79a1f54fd64fffa4a869b2ae605a316d">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_PaneRelief</Package_File_Name>
-    <Library_Version>2.0.2.17</Library_Version>
+    <Library_Version>2.0.2.19</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -144,6 +144,12 @@ https://github.com/flarn2006/VILab</Description>
         <Namespace_Type>Prefix</Namespace_Type>
         <Namespace/>
       </Namespace_Overrides>
+      <Exclusions>
+        <Path>.gitignore</Path>
+      </Exclusions>
+      <Exclusions>
+        <Path>PaneRelief.lvproj</Path>
+      </Exclusions>
     </Source_Files>
     <License_Agreement_Filepath/>
     <Licensing_and_Activation>
