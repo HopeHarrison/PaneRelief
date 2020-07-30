@@ -1,7 +1,7 @@
-<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2020-06-02 09:53:57" Creator="Hope Harrison" Comments="" ID="79a1f54fd64fffa4a869b2ae605a316d">
+<VI_Package_Builder_Settings Version="2018" Created_Date="2019-09-25 21:24:44" Modified_Date="2020-07-30 14:58:36" Creator="Hope Harrison" Comments="" ID="83d9a465899286d269049f0d50434fd8">
   <Library_General_Settings>
     <Package_File_Name>JKI_lib_PaneRelief</Package_File_Name>
-    <Library_Version>2.0.2.19</Library_Version>
+    <Library_Version>2.0.3.2</Library_Version>
     <Auto_Increment_Version>false</Auto_Increment_Version>
     <Library_Source_Folder>.</Library_Source_Folder>
     <Library_Output_Folder>.</Library_Output_Folder>
@@ -45,9 +45,9 @@ https://github.com/HopeHarrison/PaneRelief
 It also uses code from this repo:
 https://github.com/flarn2006/VILab</Description>
       <Copyright/>
-      <Packager/>
+      <Packager>Hope Harrison</Packager>
       <URL/>
-      <Release_Notes>* You can now launch PaneRelief from the Tools menu of VIs by selecting "Tools&gt;&gt;PaneRelief... "</Release_Notes>
+      <Release_Notes>* New button to set minimum pane size to current size!</Release_Notes>
     </Description>
     <Destinations>
       <Toolkit_VIs>
