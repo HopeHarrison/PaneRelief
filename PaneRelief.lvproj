@@ -1,5 +1,5 @@
 ﻿<?xml version='1.0' encoding='UTF-8'?>
-<Project Type="Project" LVVersion="15008000">
+<Project Type="Project" LVVersion="20008000">
 	<Property Name="NI.LV.All.SourceOnly" Type="Bool">true</Property>
 	<Item Name="My Computer" Type="My Computer">
 		<Property Name="NI.SortType" Type="Int">3</Property>
@@ -58,12 +58,14 @@
 			<Item Name="Splitter Orientation--Enum.ctl" Type="VI" URL="../Typedefs/Splitter Orientation--Enum.ctl"/>
 			<Item Name="Splitter Sizing--Enum.ctl" Type="VI" URL="../Typedefs/Splitter Sizing--Enum.ctl"/>
 			<Item Name="Vertical Scrollbar Visibility--Enum.ctl" Type="VI" URL="../Typedefs/Vertical Scrollbar Visibility--Enum.ctl"/>
+			<Item Name="Splitter Style--Enum.ctl" Type="VI" URL="../Typedefs/Splitter Style--Enum.ctl"/>
 		</Item>
 		<Item Name="Tools Menu" Type="Folder">
 			<Item Name="PaneRelief.vi" Type="VI" URL="../Tools Menu/PaneRelief.vi"/>
 		</Item>
 		<Item Name="Launch Pane Relief.vi" Type="VI" URL="../Launch Pane Relief.vi"/>
 		<Item Name="Pane Relief QD.vi" Type="VI" URL="../Pane Relief QD.vi"/>
+		<Item Name="Launch Pane Relief Tool for test.vi" Type="VI" URL="../Launch Pane Relief Tool for test.vi"/>
 		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
@@ -158,6 +160,8 @@
 				<Item Name="Draw Text in Rect.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/Draw Text in Rect.vi"/>
 				<Item Name="PCT Pad String.vi" Type="VI" URL="/&lt;vilib&gt;/picture/picture.llb/PCT Pad String.vi"/>
 				<Item Name="LVPointTypeDef.ctl" Type="VI" URL="/&lt;vilib&gt;/Utility/miscctls.llb/LVPointTypeDef.ctl"/>
+				<Item Name="NI_SystemLogging.lvlib" Type="Library" URL="/&lt;vilib&gt;/Utility/SystemLogging/NI_SystemLogging.lvlib"/>
+				<Item Name="High Resolution Relative Seconds.vi" Type="VI" URL="/&lt;vilib&gt;/Utility/High Resolution Relative Seconds.vi"/>
 			</Item>
 			<Item Name="user.lib" Type="Folder">
 				<Item Name="Remove Duplicates from 1D Array (Path)__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/array/array.llb/Remove Duplicates from 1D Array (Path)__ogtk.vi"/>
@@ -193,6 +197,10 @@
 				<Item Name="MD5 Message Digest__ogtk.vi" Type="VI" URL="/&lt;userlib&gt;/_OpenG.lib/md5/md5.llb/MD5 Message Digest__ogtk.vi"/>
 			</Item>
 			<Item Name="AF Debug.lvlib" Type="Library" URL="/&lt;resource&gt;/AFDebug/AF Debug.lvlib"/>
+			<Item Name="systemLogging.dll" Type="Document" URL="systemLogging.dll">
+				<Property Name="NI.PreserveRelativePath" Type="Bool">true</Property>
+			</Item>
+			<Item Name="LV Config Read String.vi" Type="VI" URL="/&lt;resource&gt;/dialog/lvconfig.llb/LV Config Read String.vi"/>
 		</Item>
 		<Item Name="Build Specifications" Type="Build"/>
 	</Item>
