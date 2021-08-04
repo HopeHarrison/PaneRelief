@@ -58,13 +58,17 @@
 			<Item Name="Splitter Orientation--Enum.ctl" Type="VI" URL="../Typedefs/Splitter Orientation--Enum.ctl"/>
 			<Item Name="Splitter Sizing--Enum.ctl" Type="VI" URL="../Typedefs/Splitter Sizing--Enum.ctl"/>
 			<Item Name="Vertical Scrollbar Visibility--Enum.ctl" Type="VI" URL="../Typedefs/Vertical Scrollbar Visibility--Enum.ctl"/>
+			<Item Name="Splitter Style--Enum.ctl" Type="VI" URL="../Typedefs/Splitter Style--Enum.ctl"/>
 		</Item>
 		<Item Name="Tools Menu" Type="Folder">
 			<Item Name="PaneRelief.vi" Type="VI" URL="../Tools Menu/PaneRelief.vi"/>
 		</Item>
+		<Item Name="Test" Type="Folder">
+			<Item Name="Launch Pane Relief Tool For Example Panel.vi" Type="VI" URL="../Test/Launch Pane Relief Tool For Example Panel.vi"/>
+			<Item Name="Example Panel.vi" Type="VI" URL="../Test/Example Panel.vi"/>
+		</Item>
 		<Item Name="Launch Pane Relief.vi" Type="VI" URL="../Launch Pane Relief.vi"/>
 		<Item Name="Pane Relief QD.vi" Type="VI" URL="../Pane Relief QD.vi"/>
-		<Item Name="test.vi" Type="VI" URL="../test.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
 			<Item Name="vi.lib" Type="Folder">
 				<Item Name="Actor Framework.lvlib" Type="Library" URL="/&lt;vilib&gt;/ActorFramework/Actor Framework.lvlib"/>
